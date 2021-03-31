@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Costa Rica!!",
+    "lat_long": [
+      9.6660971,
+      -85.0621176
+    ],
+    "year": "'23"
+  },
+  {
+    "name": "Ian Hou",
+    "iconUrl": "images/ian.jpg",
+    "url": "http://iankwanhou.me/",
+    "message": "One day, the proles will rise again.",
+    "lat_long": [
+      42.3,
+      -71.2
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Donia Tung",
+    "iconUrl": "images/donia.jpg",
+    "url": "http://doniacs52.me",
+    "message": "small girl, big city",
+    "lat_long":[
+      40.76,
+      -74
+    ],
+    "year": "'22"
+  }
+]

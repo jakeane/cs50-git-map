@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Tyler Vergho",
+    "iconUrl": "images/tyler.jpg",
+    "url": "//tvergho.me",
+    "message": "Hey!",
+    "lat_long": [37.322998, -122.032181],
+    "year": "'23"
+  },
+  {
+    "name": "Jordan Sanz",
+    "iconUrl": "images/jordan.JPG",
+    "url": "//jordansanz.me",
+    "message": "I'm sleepy",
+    "lat_long": [32.024220, -102.161960],
+    "year": "'22"
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Joseph Notis",
+        "iconUrl": "images/josephnotis.jpg",
+        "url": "//josephnotis.me",
+        "message": "Hi!",
+        "lat_long": [
+            41.141700, -73.764110
+        ],
+        "year": "21"
+    },
+    {
+        "name": "Catherine Parnell",
+        "iconUrl": "images/catherineparnell.jpg",
+        "url": "//catherinedparnell.me",
+        "message": "sup y'all",
+        "lat_long": [
+            29.781500, -95.577410
+        ],
+        "year": "22"
+    }
+]
