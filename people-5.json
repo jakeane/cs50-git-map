@@ -1,18 +1,26 @@
 [
-  {
-    "name": "Tyler Vergho",
-    "iconUrl": "images/tyler.jpg",
-    "url": "//tvergho.me",
-    "message": "Hey!",
-    "lat_long": [37.322998, -122.032181],
-    "year": "'23"
-  },
-  {
-    "name": "Jordan Sanz",
-    "iconUrl": "images/jordan.JPG",
-    "url": "//jordansanz.me",
-    "message": "I'm sleepy",
-    "lat_long": [32.024220, -102.161960],
-    "year": "'22"
-  }
+	{
+		"name": "Tyler Vergho",
+		"iconUrl": "images/tyler.jpg",
+		"url": "//tvergho.me",
+		"message": "Hey!",
+		"lat_long": [37.322998, -122.032181],
+		"year": "'23"
+	},
+	{
+		"name": "Jordan Sanz",
+		"iconUrl": "images/jordan.JPG",
+		"url": "//jordansanz.me",
+		"message": "I'm sleepy",
+		"lat_long": [32.02422, -102.16196],
+		"year": "'22"
+	},
+	{
+		"name": "San'Quan Prioleau",
+		"iconUrl": "images/s_prioleau_transparent_200px.png",
+		"url": "//sprioleau.me",
+		"message": "👋🏾 Howdy! 🇺🇸",
+		"lat_long": [32.813881, -96.949928],
+		"year": "Staff"
+	}
 ]
