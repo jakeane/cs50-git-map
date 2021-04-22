@@ -31,5 +31,16 @@
       -74
     ],
     "year": "'22"
+  },
+  {
+    "name": "Anna Martin",
+    "iconUrl": "images/anna.jpg",
+    "url": "https://annamartin.me/",
+    "message": "just getting through it",
+    "lat_long":[
+      42.34,
+      -71.15
+    ],
+    "year": "'22"
   }
 ]
