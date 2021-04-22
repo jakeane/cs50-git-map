@@ -9,5 +9,16 @@
       -71.463951
     ],
     "year": "'22"
+  },
+  {
+    "name": "Irene Lam",
+    "iconUrl":"images/irene.jpg",
+    "url": "//irenelam.me/",
+    "message": "please don't let there be a merge conflict",
+    "lat_long": [
+      40.661473,
+      -73.968609
+    ],
+    "year": "'22"
   }
 ]
