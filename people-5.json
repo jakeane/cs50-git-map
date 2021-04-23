@@ -4,7 +4,10 @@
     "iconUrl": "images/tyler.jpg",
     "url": "//tvergho.me",
     "message": "Hey!",
-    "lat_long": [37.322998, -122.032181],
+    "lat_long": [
+      37.322998,
+      -122.032181
+    ],
     "year": "'23"
   },
   {
@@ -12,7 +15,21 @@
     "iconUrl": "images/jordan.JPG",
     "url": "//jordansanz.me",
     "message": "I'm sleepy",
-    "lat_long": [32.024220, -102.161960],
+    "lat_long": [
+      32.024220,
+      -102.161960
+    ],
     "year": "'22"
+  },
+  {
+    "name": "Rylee Stone",
+    "iconUrl": "images/stone.JPG",
+    "url": "//rstone.me/",
+    "message": "Hey!",
+    "lat_long": [
+      51.048615,
+      -114.070847
+    ],
+    "year": "'21"
   }
 ]
