@@ -30,5 +30,13 @@
 		"message": "👋🏾 Howdy! 🇺🇸",
 		"lat_long": [32.813881, -96.949928],
 		"year": "Staff"
+	},
+	{
+		"name": "Summer Christensen",
+		"iconUrl": "images/summer.png",
+		"url": "//summerchristensen.me",
+		"message": "Gnarly duuuuuude",
+		"lat_long": [34.438358, -119.636879],
+		"year": "'21'"
 	}
 ]
