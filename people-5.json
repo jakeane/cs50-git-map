@@ -30,5 +30,13 @@
 		"message": "👋🏾 Howdy! 🇺🇸",
 		"lat_long": [32.813881, -96.949928],
 		"year": "Staff"
+	},
+	{
+		"name": "Luca Lit",
+		"iconUrl": "images/lucalit.jpg",
+		"url": "//lucalitcs52.me",
+		"message": "Don't do it so hardht :)",
+		"lat_long": [22.381189, 114.271034],
+		"year": "'21"
 	}
 ]
