@@ -28,5 +28,15 @@
             38.840389, -77.428879
         ],
         "year": "24"
+    },
+    {
+        "name": "Derek Lu",
+        "iconUrl": "images/derek.jpg",
+        "url": "//dereklu.me",
+        "message": "Hey there!",
+        "lat_long": [
+            30.285240, -97.733712
+        ],
+        "year": "23"
     }
 ]
