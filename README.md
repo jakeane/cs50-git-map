@@ -204,7 +204,7 @@ After you are finished working on your branch, you should push it up to github.
 
 The best way to merge your feature into the main branch is to issue a pull request. This bundles up your feature branch into a request that you or someone else on your team can approve.
 
-🚀 Go to the [Github Repo Page](https://github.com/dartmouth-cs52-20S/git-map) (or use the Github Desktop App) and submit a *New Pull Request* (choosing whatever branch you just pushed), add a quick description. Possibly do code review or just approve the request yourself. The idea here is that this is a checkpoint spot before adding your feature to the main branch so that everybody on your teams knows what is happening.
+🚀 Go to the [Github Repo Page](https://github.com/dartmouth-cs52-21S/git-map) (or use the Github Desktop App) and submit a *New Pull Request* (choosing whatever branch you just pushed), add a quick description. Possibly do code review or just approve the request yourself. The idea here is that this is a checkpoint spot before adding your feature to the main branch so that everybody on your teams knows what is happening.
 
 ![pull-request](images/docs/pull-request.png)
 
