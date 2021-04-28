@@ -38,5 +38,15 @@
             30.285240, -97.733712
         ],
         "year": "23"
+    },
+    {
+        "name": "Cathy Wu",
+        "iconUrl": "images/cathy.jpg",
+        "url": "//xinaicathywu.me/",
+        "message": "Hello hello!",
+        "lat_long": [
+            41.635990, -71.507271
+        ],
+        "year": "21"
     }
 ]
