@@ -26,12 +26,12 @@ Here's what we're going to do!
 ### Clone The Repo
 
 1. 🚀 Clone the repo:
-`git clone git@github.com:dartmouth-cs52-20X/git-map.git`
+`git clone git@github.com:dartmouth-cs52-21S/git-map.git`
 1. 🚀 change directory to this new workspace:
 `cd git-map`
 
 🐛 if you run into trouble with messages about ssh keys you'll notice in the URL above we use `git@github.com:`.  This is running git over SSH. This has some nice security features, but if you prefer HTTPS you can use:
-`git clone https://github.com/dartmouth-cs52-20S/git-map.git` instead. For SSH you'll need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times — don't use a password) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
+`git clone https://github.com/dartmouth-cs52-21S/git-map.git` instead. For SSH you'll need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times — don't use a password) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Check Your GitHub Author and Email Settings
 
@@ -204,7 +204,7 @@ After you are finished working on your branch, you should push it up to github.
 
 The best way to merge your feature into the main branch is to issue a pull request. This bundles up your feature branch into a request that you or someone else on your team can approve.
 
-🚀 Go to the [Github Repo Page](https://github.com/dartmouth-cs52-20S/git-map) (or use the Github Desktop App) and submit a *New Pull Request* (choosing whatever branch you just pushed), add a quick description. Possibly do code review or just approve the request yourself. The idea here is that this is a checkpoint spot before adding your feature to the main branch so that everybody on your teams knows what is happening.
+🚀 Go to the [Github Repo Page](https://github.com/dartmouth-cs52-21S/git-map) (or use the Github Desktop App) and submit a *New Pull Request* (choosing whatever branch you just pushed), add a quick description. Possibly do code review or just approve the request yourself. The idea here is that this is a checkpoint spot before adding your feature to the main branch so that everybody on your teams knows what is happening.
 
 ![pull-request](images/docs/pull-request.png)
 
