@@ -38,5 +38,13 @@
 		"message": "Gnarly duuuuuude",
 		"lat_long": [34.438358, -119.636879],
 		"year": "'21'"
+	},
+	{
+		"name": "Tiffany Yu",
+		"iconUrl": "images/tiffany.png",
+		"url": "//thetiffanyyu.me",
+		"message": "Hi! I'm Tiffany.",
+		"lat_long": [29.760427, -95.369804],
+		"year": "'21'"
 	}
 ]
