@@ -31,5 +31,16 @@
       -122.459026
     ],
     "year": "'22"
+  },
+  {
+    "name": "Mack Reiferson",
+    "iconUrl":"images/mack.jpg",
+    "url": "//mackreif.me/",
+    "message": "Sudharsan <3",
+    "lat_long": [
+      43.935140,
+      -72.587720
+    ],
+    "year": "'22"
   }
 ]

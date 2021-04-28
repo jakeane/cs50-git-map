@@ -8,6 +8,14 @@
 		"year": "'23"
 	},
 	{
+		"name": "Jack Benhayon",
+		"iconUrl": "images/jwb.jpg",
+		"url": "//jackbenhayon.me",
+		"message": "Where my SB homies at?!?",
+		"lat_long": [34.420830, -119.698189],
+		"year": "'21"
+	},
+	{
 		"name": "Jordan Sanz",
 		"iconUrl": "images/jordan.JPG",
 		"url": "//jordansanz.me",
@@ -30,5 +38,21 @@
 		"message": "👋🏾 Howdy! 🇺🇸",
 		"lat_long": [32.813881, -96.949928],
 		"year": "Staff"
+	},
+	{
+		"name": "Summer Christensen",
+		"iconUrl": "images/summer.png",
+		"url": "//summerchristensen.me",
+		"message": "Gnarly duuuuuude",
+		"lat_long": [34.438358, -119.636879],
+		"year": "'21'"
+	},
+	{
+		"name": "Tiffany Yu",
+		"iconUrl": "images/tiffany.png",
+		"url": "//thetiffanyyu.me",
+		"message": "Hi! I'm Tiffany.",
+		"lat_long": [29.760427, -95.369804],
+		"year": "'21'"
 	}
 ]
