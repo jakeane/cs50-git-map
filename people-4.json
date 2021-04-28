@@ -48,5 +48,15 @@
             41.635990, -71.507271
         ],
         "year": "21"
+    },
+    {
+        "name": "Isaac Spokes",
+        "iconUrl": "images/isaac.jpg",
+        "url": "//isaacspokes.me/",
+        "message": "Hi how are ya!",
+        "lat_long": [
+            39.360051, -76.656867
+        ],
+        "year": "22"
     }
 ]
