@@ -108,12 +108,12 @@ Here is a great visualization tool to help see what you are doing in the git tre
 🚀 if you do `git branch` you should see `* yourname_icon`.
 
 
-🍸 Protip: Periodically pull in changes from *origin/master* and update your feature branch.
+🍸 Protip: Periodically pull in changes from *origin/main* and update your feature branch.
 
 Note that these commands only update your current local branch.  The idea here is to not fall too far behind the master branch if other people are working on it.
 
 ```bash
-💻 git pull origin master
+💻 git pull origin main
 ```
 
 #### Merge Conflicts
@@ -182,7 +182,7 @@ If nothing displays on the webpage, the first thing to do is open the [chrome de
 
 
 ### Rebase local branch
-When you're nearly ready to publish, rebase your local branch on top of the latest master one more time. Just like you have been above. Note: we are using rebasing here instead of just pulling, because now we are pros. 🏆  What this does is basically pull in all remote changes and then replay your commits on top of them. This gives you a cleaner version history. Don't forget to `git add` and `git commit` your changes before pulling in new changes (it'll warn you though). 
+When you're nearly ready to publish, rebase your local branch on top of the latest main one more time. Just like you have been above. Note: we are using rebasing here instead of just pulling, because now we are pros. 🏆  What this does is basically pull in all remote changes and then replay your commits on top of them. This gives you a cleaner version history. Don't forget to `git add` and `git commit` your changes before pulling in new changes (it'll warn you though). 
 
 ```bash
 💻 git pull --rebase origin main
@@ -214,10 +214,10 @@ To do a code review, @mention a peer in the pull request. Once approved, your co
 
 ![merge-pull-request](images/docs/merge-pull-request.png)
 
-Alternatively you can merge your changes in to the master branch without a pull request, but this should only be done if you are using git on your own or with a very small team!
+Alternatively you can merge your changes in to the main branch without a pull request, but this should only be done if you are using git on your own or with a very small team!
 
 ```bash
-git checkout master
+git checkout main
 git merge your_feature_branch_name
 ```
 
@@ -233,7 +233,7 @@ Note: you have to delete it in both places, as just deleting it remotely won't d
 
 ## DONE!!
 
-Once your changes are merged into the remote `master` branch on github you'll be able to see your changes at: http://map.cs52.me
+Once your changes are merged into the remote `main` branch on github you'll be able to see your changes at: http://map.cs52.me
 
 If you want more practice try: [https://learngitbranching.js.org](https://learngitbranching.js.org/)
 
@@ -275,7 +275,7 @@ A nice way to visualize your commits and branches locally is `git log --graph --
 
 Then, rebase with up git "interactive" mode, which will pull up your text editor.
 ```bash
-git rebase -i master
+git rebase -i main
 ```
 OR
 ```bash
@@ -338,7 +338,7 @@ git checkout <feature>     # shorter version, works with newer versions of Git
 Be careful about this!! You will lose your local changes.
 ```bash
 git reset --hard mybranch goodbranch
-git reset --hard master origin/master   
+git reset --hard main origin/main   
 ```
 
 ##### Grab a commit from another branch
