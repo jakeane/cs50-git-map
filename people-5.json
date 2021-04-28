@@ -38,5 +38,13 @@
 		"message": "Don't do it so hardht :)",
 		"lat_long": [22.381189, 114.271034],
 		"year": "'21"
+  },
+  {
+		"name": "Summer Christensen",
+		"iconUrl": "images/summer.png",
+		"url": "//summerchristensen.me",
+		"message": "Gnarly duuuuuude",
+		"lat_long": [34.438358, -119.636879],
+		"year": "'21'"
 	}
 ]
