@@ -8,6 +8,14 @@
 		"year": "'23"
 	},
 	{
+		"name": "Jack Benhayon",
+		"iconUrl": "images/jwb.jpg",
+		"url": "//jackbenhayon.me",
+		"message": "Where my SB homies at?!?",
+		"lat_long": [34.420830, -119.698189],
+		"year": "'21"
+	},
+	{
 		"name": "Jordan Sanz",
 		"iconUrl": "images/jordan.JPG",
 		"url": "//jordansanz.me",
