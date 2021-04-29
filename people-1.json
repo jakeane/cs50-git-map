@@ -9,5 +9,16 @@
       -16.7972804
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Snow",
+    "iconUrl": "images/snow.jpg",
+    "url": "//dartmouth-cs52-21s.github.io/lab1-landingpage-snow-kang/",
+    "message": "florida has snow now",
+    "lat_long": [
+      26.124161,
+      -80.143593
+    ],
+    "year": "'21"
   }
 ]
