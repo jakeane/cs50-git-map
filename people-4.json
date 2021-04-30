@@ -48,5 +48,15 @@
             41.635990, -71.507271
         ],
         "year": "21"
+    },
+    {
+        "name": "Sydney Friedland",
+        "iconUrl": "images/sydney.jpg",
+        "url": "//sydneyfriedland.com/",
+        "message": "Halo :)",
+        "lat_long": [
+            22.257289, 114.209986
+        ],
+        "year": "21"
     }
 ]
