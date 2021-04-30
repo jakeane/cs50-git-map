@@ -53,5 +53,16 @@
       -118.14
     ],
     "year": "'23"
+  },
+  {
+    "name": "Juliet Elisa Giraso",
+    "iconUrl": "images/juliet.jpg",
+    "url": "//elisajuju.me/",
+    "message": "what's good?!",
+    "lat_long": [
+      42.30,
+      -71.43
+    ],
+    "year": "'22"
   }
 ]
