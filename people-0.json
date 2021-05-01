@@ -64,5 +64,16 @@
       -95.37
     ],
     "year": "'21"
+  },
+  {
+    "name": "Lizzie Hernandez",
+    "iconUrl": "images/lizzie.jpg",
+    "url": "//yaaaay.me/",
+    "message": "&#x1F496; &#x2728; &#x1F48B;",
+    "lat_long": [
+      15.66,
+      -79.67
+    ],
+    "year": "'22"
   }
 ]
