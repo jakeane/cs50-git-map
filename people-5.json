@@ -48,6 +48,14 @@
 		"year": "'21'"
 	},
 	{
+		"name": "Seungjae Lee",
+		"iconUrl": "images/sjlee.jpg",
+		"url": "//leesj.me",
+		"message": "ㅎㅇ(Hi~)",
+		"lat_long": [35.154012, 129.146910],
+		"year": "'21'"
+	},
+	{
 		"name": "Tiffany Yu",
 		"iconUrl": "images/tiffany.png",
 		"url": "//thetiffanyyu.me",
