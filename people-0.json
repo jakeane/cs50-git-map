@@ -75,5 +75,16 @@
       -79.67
     ],
     "year": "'22"
+  },
+  {
+    "name": "Rishik Lad",
+    "iconUrl": "images/rishik.jpg",
+    "url": "//giphy.com/embed/Azm6adiPlNG0RHONrF",
+    "message": "what's good chief",
+    "lat_long": [
+      37.55,
+      -121.98
+    ],
+    "year": "'23"
   }
 ]
