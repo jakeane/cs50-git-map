@@ -33,6 +33,17 @@
     "year": "'22"
   },
   {
+    "name": "Maria Roodnitsky",
+    "iconUrl":"images/maria.png",
+    "url": "//mariaroodnitsky.me/",
+    "message": "i carry your heart with me (i carry it in my heart)",
+    "lat_long": [
+      37.786992,
+      -122.459026
+    ],
+    "year": "'22"
+  },
+  {
     "name": "Mack Reiferson",
     "iconUrl":"images/mack.jpg",
     "url": "//mackreif.me/",
