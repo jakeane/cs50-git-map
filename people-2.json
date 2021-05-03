@@ -14,5 +14,13 @@
     "message": "It Compiled?",
     "lat_long": [42.089821, -76.808258],
     "year": "'22"
+  },
+  {
+    "name": "Jacob",
+    "iconUrl": "images/jacob_werzinsky.png",
+    "url": "//bakedapplepie.me",
+    "message": "How's it going?",
+    "lat_long": [38.816878, -76.750803],
+    "year": "'22"
   }
 ]
