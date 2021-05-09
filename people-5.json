@@ -62,5 +62,14 @@
 		"message": "Hi! I'm Tiffany.",
 		"lat_long": [29.760427, -95.369804],
 		"year": "'21'"
+	},
+
+	{
+		"name": "Aarnav",
+		"iconUrl": "images/zaa.jpeg",
+		"url": "//aarnav.me",
+		"message": "Hi! I'm Aarnav.",
+		"lat_long": [28.700347, 77.190361],
+		"year": "'19'"
 	}
 ]
