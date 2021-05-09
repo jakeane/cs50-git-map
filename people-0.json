@@ -86,5 +86,16 @@
       -121.98
     ],
     "year": "'23"
+  },
+  {
+    "name": "Alex Wong",
+    "iconUrl": "images/alexwong.jpg",
+    "url": "//adwong.me",
+    "message": "hello!",
+    "lat_long": [
+      26.70,
+      -80.20
+    ],
+    "year": "'21"
   }
 ]
