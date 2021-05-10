@@ -71,5 +71,13 @@
 		"message": "Hi! I'm Aarnav.",
 		"lat_long": [28.700347, 77.190361],
 		"year": "'19'"
+	},
+	{
+		"name": "William",
+		"iconUrl": "images/will.jpg",
+		"url": "//williamperez.me",
+		"message": "Hi! I'm Will :))",
+		"lat_long": [28.249310, -81.650970],
+		"year": "'23'"
 	}
 ]
