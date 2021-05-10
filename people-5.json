@@ -79,5 +79,13 @@
 		"message": "Hi! I'm Will :))",
 		"lat_long": [28.249310, -81.650970],
 		"year": "'23'"
+	},
+	{
+		"name": "Melissa",
+		"iconUrl": "images/melissa.jpg",
+		"url": "//melissavalencia.me",
+		"message": "yerrrrr",
+		"lat_long": [34.033371, -118.162819],
+		"year": "'23"
 	}
 ]
