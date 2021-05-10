@@ -53,5 +53,16 @@
       -72.587720
     ],
     "year": "'22"
+  },
+  {
+    "name": "Blake Danziger",
+    "iconUrl":"images/blake.jpg",
+    "url": "//blakedanziger.me/",
+    "message": "I'm just happy to be here",
+    "lat_long": [
+      42.382542,
+      -71.412514
+    ],
+    "year": "'22"
   }
 ]
