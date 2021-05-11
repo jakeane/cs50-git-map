@@ -40,6 +40,14 @@
 		"year": "Staff"
 	},
 	{
+		"name": "Luca Lit",
+		"iconUrl": "images/lucalit.jpg",
+		"url": "//lucalitcs52.me",
+		"message": "Don't do it so hardht :)",
+		"lat_long": [22.381189, 114.271034],
+		"year": "'21"
+  },
+  {
 		"name": "Summer Christensen",
 		"iconUrl": "images/summer.png",
 		"url": "//summerchristensen.me",
