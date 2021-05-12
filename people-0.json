@@ -108,5 +108,16 @@
       -4.7972804
     ],
     "year": "'24"
+  },
+  {
+    "name": "Vi Tran",
+    "iconUrl": "images/Vi_tran.jpg",
+    "url": "//vitran.me",
+    "message": "Hello cool people :)",
+    "lat_long": [
+      37.871593,
+      -122.272743
+    ],
+    "year": "'23"
   }
 ]
