@@ -42,5 +42,16 @@
       -72.291940
     ],
     "year": "'22"
+  },
+  {
+    "name": "Ravin Anderson",
+    "iconUrl": "images/ravin.jpeg",
+    "url": "//ravin-anderson.me",
+    "message": "Coffeeholic",
+    "lat_long": [
+      26.100365,
+      -80.399773
+    ],
+    "year": "'24"
   }
 ]
