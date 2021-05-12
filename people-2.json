@@ -4,7 +4,10 @@
     "iconUrl": "images/cs52.png",
     "url": "//cs52.me",
     "message": "Full-Stack Web Dev Fun",
-    "lat_long": [43.708999, -72.28425],
+    "lat_long": [
+      43.708999,
+      -72.28425
+    ],
     "year": "'19S"
   },
   {
@@ -12,7 +15,10 @@
     "iconUrl": "images/garret.png",
     "url": "//garretandreine.me",
     "message": "It Compiled?",
-    "lat_long": [42.089821, -76.808258],
+    "lat_long": [
+      42.089821,
+      -76.808258
+    ],
     "year": "'22"
   },
   {
@@ -20,7 +26,21 @@
     "iconUrl": "images/jacob_werzinsky.png",
     "url": "//bakedapplepie.me",
     "message": "How's it going?",
-    "lat_long": [38.816878, -76.750803],
+    "lat_long": [
+      38.816878,
+      -76.750803
+    ],
+    "year": "'22"
+  },
+  {
+    "name": "Laurel Dernbach",
+    "iconUrl": "images/laurel200x200.jpg",
+    "url": "//laureldernbach.me",
+    "message": "I woke up feeling dangerous",
+    "lat_long": [
+      43.700970,
+      -72.291940
+    ],
     "year": "'22"
   }
 ]
