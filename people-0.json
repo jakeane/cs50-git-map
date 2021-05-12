@@ -97,5 +97,16 @@
       -80.20
     ],
     "year": "'21"
+  },
+  {
+    "name": "Vico Lee",
+    "iconUrl": "images/vicolee.jpg",
+    "url": "//vicolee.me",
+    "message": "hello!",
+    "lat_long": [
+      40,
+      -4.7972804
+    ],
+    "year": "'24"
   }
 ]
