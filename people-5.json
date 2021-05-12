@@ -1,4 +1,12 @@
 [
+  {
+    "name": "Ray Crist",
+		"iconUrl": "images/ray.jpg",
+		"url": "//rhc-cs52.me",
+		"message": "Hey!",
+		"lat_long": [38.972630, -77.142660],
+		"year": "'22"  
+  },
 	{
 		"name": "Tyler Vergho",
 		"iconUrl": "images/tyler.jpg",
