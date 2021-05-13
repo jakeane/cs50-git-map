@@ -95,5 +95,13 @@
 		"message": "yerrrrr",
 		"lat_long": [34.033371, -118.162819],
 		"year": "'23"
+	},
+	{
+		"name": "Rachelle Louie",
+		"iconUrl": "images/elle.jpg",
+		"url": "//ellelouie.me",
+		"message": "Hey!",
+		"lat_long": [37.880878, -122.186127],
+		"year": "'21"
 	}
 ]
