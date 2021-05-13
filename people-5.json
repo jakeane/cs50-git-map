@@ -103,5 +103,13 @@
 		"message": "Hey!",
 		"lat_long": [37.880878, -122.186127],
 		"year": "'21"
+	},
+	{
+		"name": "Henry Mans",
+		"iconUrl": "images/henry.jpg",
+		"url": "//henrymans.me",
+		"message": "Midwest Gang",
+		"lat_long": [44.977753, -93.265015],
+		"year": "'23"
 	}
 ]
