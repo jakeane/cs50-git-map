@@ -11,6 +11,17 @@
     "year": "'23"
   },
   {
+    "name": "June Kim",
+    "iconUrl": "images/june.png",
+    "url": "//lab1-landingpage-juneskiafc.netlify.app",
+    "message": "sup",
+    "lat_long": [
+      22.318567,
+      114.179604
+    ],
+    "year": "'23"
+  },
+  {
     "name": "Ian Hou",
     "iconUrl": "images/ian.jpg",
     "url": "http://iankwanhou.me/",
