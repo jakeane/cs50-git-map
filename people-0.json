@@ -130,5 +130,16 @@
       -122.272743
     ],
     "year": "'23"
+  },
+  {
+    "name": "Muhtasim Miraz",
+    "iconUrl": "images/muhtasim_miraz.jpg",
+    "url": "//muhtasim.me",
+    "message": "Hey Y'all!",
+    "lat_long": [
+      40.712776,
+      -74.005974
+    ],
+    "year": "'23"
   }
 ]
