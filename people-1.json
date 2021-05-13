@@ -41,5 +41,16 @@
       43.7022, -72.2896
     ],
     "year": "22"
+  },
+  {
+    "name": "Gebriel",
+    "iconUrl": "images/gebriel.jpg",
+    "url": "//gebrielmbelaineh.me/",
+    "message": "Just straight vibes!",
+    "lat_long": [
+      8.980603,
+      38.757759
+    ],
+    "year": "22"
   }
 ]
