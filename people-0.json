@@ -141,5 +141,18 @@
       -74.005974
     ],
     "year": "'23"
+  },
+
+  {
+    "name": "Antony Guzman",
+    "iconUrl": "images/antony.jpeg",
+    "url": "//antonypersonal.me",
+    "message": "Hello",
+    "lat_long": [
+      44.308140,
+      -71.800171
+    ],
+    "year": "'22"
   }
 ]
+
