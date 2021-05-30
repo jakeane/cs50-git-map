@@ -9,5 +9,48 @@
       -16.7972804
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Snow",
+    "iconUrl": "images/snow.jpg",
+    "url": "//dartmouth-cs52-21s.github.io/lab1-landingpage-snow-kang/",
+    "message": "florida has snow now",
+    "lat_long": [
+      26.124161,
+      -80.143593
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Wylie",
+    "iconUrl": "images/wylie.jpg",
+    "url": "//whyleekuhsigh.me/",
+    "message": "gotta blast! 🚀🌟",
+    "lat_long": [
+      36.152110,
+      -115.218630
+    ],
+    "year": "22"
+  },
+  {
+    "name": "Aadhya",
+    "iconUrl": "images/aadhya.jpg",
+    "url": "//aadhyakocha.me/",
+    "message": "Let's travel!",
+    "lat_long": [
+      43.7022, -72.2896
+    ],
+    "year": "22"
+  },
+  {
+    "name": "Gebriel",
+    "iconUrl": "images/gebriel.jpg",
+    "url": "//gebrielmbelaineh.me/",
+    "message": "Just straight vibes!",
+    "lat_long": [
+      8.980603,
+      38.757759
+    ],
+    "year": "22"
   }
 ]

@@ -1,4 +1,12 @@
 [
+  {
+    "name": "Ray Crist",
+		"iconUrl": "images/ray.jpg",
+		"url": "//rhc-cs52.me",
+		"message": "Hey!",
+		"lat_long": [38.972630, -77.142660],
+		"year": "'22"  
+  },
 	{
 		"name": "Tyler Vergho",
 		"iconUrl": "images/tyler.jpg",
@@ -40,11 +48,27 @@
 		"year": "Staff"
 	},
 	{
+		"name": "Luca Lit",
+		"iconUrl": "images/lucalit.jpg",
+		"url": "//lucalitcs52.me",
+		"message": "Don't do it so hardht :)",
+		"lat_long": [22.381189, 114.271034],
+		"year": "'21"
+  },
+  {
 		"name": "Summer Christensen",
 		"iconUrl": "images/summer.png",
 		"url": "//summerchristensen.me",
 		"message": "Gnarly duuuuuude",
 		"lat_long": [34.438358, -119.636879],
+		"year": "'21'"
+	},
+	{
+		"name": "Seungjae Lee",
+		"iconUrl": "images/sjlee.jpg",
+		"url": "//leesj.me",
+		"message": "ㅎㅇ(Hi~)",
+		"lat_long": [35.154012, 129.146910],
 		"year": "'21'"
 	},
 	{
@@ -54,5 +78,46 @@
 		"message": "Hi! I'm Tiffany.",
 		"lat_long": [29.760427, -95.369804],
 		"year": "'21'"
+	},
+
+	{
+		"name": "Aarnav",
+		"iconUrl": "images/zaa.jpeg",
+		"url": "//aarnav.me",
+		"message": "Hi! I'm Aarnav.",
+		"lat_long": [28.700347, 77.190361],
+		"year": "'19'"
+	},
+	{
+		"name": "William",
+		"iconUrl": "images/will.jpg",
+		"url": "//williamperez.me",
+		"message": "Hi! I'm Will :))",
+		"lat_long": [28.249310, -81.650970],
+		"year": "'23'"
+	},
+	{
+		"name": "Melissa",
+		"iconUrl": "images/melissa.jpg",
+		"url": "//melissavalencia.me",
+		"message": "yerrrrr",
+		"lat_long": [34.033371, -118.162819],
+		"year": "'23"
+	},
+	{
+		"name": "Rachelle Louie",
+		"iconUrl": "images/elle.jpg",
+		"url": "//ellelouie.me",
+		"message": "Hey!",
+		"lat_long": [37.880878, -122.186127],
+		"year": "'21"
+	},
+	{
+		"name": "Henry Mans",
+		"iconUrl": "images/henry.jpg",
+		"url": "//henrymans.me",
+		"message": "Midwest Gang",
+		"lat_long": [44.977753, -93.265015],
+		"year": "'23"
 	}
 ]
