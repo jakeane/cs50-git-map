@@ -22,7 +22,7 @@ var PersonIcon = L.Icon.extend({
 });
 
 // load up the background tile layer
-var Stamen_Watercolor = L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {}).addTo(map);
+var Stamen_Watercolor = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg', {}).addTo(map);
 
 // all the facemarkers will go into one layer
 // var facemarkers = L.markerClusterGroup({
