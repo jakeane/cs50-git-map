@@ -1,8 +1,8 @@
-# CS52 Git Map Collaborative Coding
+# CS50 Git Map Collaborative Coding
 
 ![](images/docs/screenshot.jpg)
 
-Now that you have a personal domain and page, let's work together on a map. The purpose here is to introduce you to Git Flow which we will be using from now on!
+Now that we have learned about collaboration with Git, let's work together on a map. The purpose here is to introduce you to Git Flow which we will be using from now on!
 
 #### Key: <br />
 🚀 steps to definitely pay attention to <br/>
@@ -16,9 +16,8 @@ Here's what we're going to do!
 1. Clone The Repo
 1. Start Local Webserver
 1. Create a new branch
+1. Add your info and image
 1. Merge Conflicts
-1. Add some JS to Map
-1. Rebase to pull new changes
 1. Push branch to github
 1. Create pull request
 
@@ -26,12 +25,12 @@ Here's what we're going to do!
 ### Clone The Repo
 
 1. 🚀 Clone the repo:
-`git clone git@github.com:dartmouth-cs52-21S/git-map.git`
+`git clone git@github.com:jakeane/cs50-git-map.git`
 1. 🚀 change directory to this new workspace:
-`cd git-map`
+`cd cs50-git-map`
 
 🐛 if you run into trouble with messages about ssh keys you'll notice in the URL above we use `git@github.com:`.  This is running git over SSH. This has some nice security features, but if you prefer HTTPS you can use:
-`git clone https://github.com/dartmouth-cs52-21S/git-map.git` instead. For SSH you'll need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times — don't use a password) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
+`git clone https://github.com/jakeane/cs50-git-map.git` instead. For SSH you'll need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times — don't use a password) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Check Your GitHub Author and Email Settings
 

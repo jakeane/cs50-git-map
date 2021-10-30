@@ -1,27 +1,5 @@
 [
   {
-    "name": "Froggy",
-    "iconUrl": "images/froggy.jpg",
-    "url": "//giphy.com/embed/QCpqmkDHVNde",
-    "message": "Come visit me in Costa Rica!!",
-    "lat_long": [
-      9.6660971,
-      -85.0621176
-    ],
-    "year": "'23"
-  },
-  {
-    "name": "June Kim",
-    "iconUrl": "images/june.png",
-    "url": "//lab1-landingpage-juneskiafc.netlify.app",
-    "message": "sup",
-    "lat_long": [
-      22.318567,
-      114.179604
-    ],
-    "year": "'23"
-  },
-  {
     "name": "Ian Hou",
     "iconUrl": "images/ian.jpg",
     "url": "http://iankwanhou.me/",
@@ -29,8 +7,7 @@
     "lat_long": [
       42.3,
       -71.2
-    ],
-    "year": "'22"
+    ]
   },
   {
     "name": "Donia Tung",
@@ -40,85 +17,7 @@
     "lat_long": [
       40.76,
       -74
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Anna Martin",
-    "iconUrl": "images/anna.jpg",
-    "url": "https://annamartin.me/",
-    "message": "just getting through it",
-    "lat_long": [
-      42.34,
-      -71.15
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Lily Maechling",
-    "iconUrl": "images/anna.jpg",
-    "url": "//www.lilymaechling.me/",
-    "message": "hello, how's it going",
-    "lat_long": [
-      34.15,
-      -118.14
-    ],
-    "year": "'23"
-  },
-  {
-    "name": "Christina Ru",
-    "iconUrl": "images/yayresize.jpg",
-    "url": "//christinaru1.me",
-    "message": "a big forehead in a smol world",
-    "lat_long": [
-      29.76,
-      -95.37
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Lizzie Hernandez",
-    "iconUrl": "images/lizzie.jpg",
-    "url": "//yaaaay.me/",
-    "message": "&#x1F496; &#x2728; &#x1F48B;",
-    "lat_long": [
-      15.66,
-      -79.67
-    ],
-    "year": "'22"
-  },
-  {
-    "name": "Rishik Lad",
-    "iconUrl": "images/rishik.jpg",
-    "url": "//giphy.com/embed/Azm6adiPlNG0RHONrF",
-    "message": "what's good chief",
-    "lat_long": [
-      37.55,
-      -121.98
-    ],
-    "year": "'23"
-  },
-  {
-    "name": "Alex Wong",
-    "iconUrl": "images/a_wong.jpg",
-    "url": "//adwong.me",
-    "message": "hello!",
-    "lat_long": [
-      26.70,
-      -80.20
-    ],
-    "year": "'21"
-  },
-  {
-    "name": "Vico Lee",
-    "iconUrl": "images/vicolee.jpg",
-    "url": "//vicolee.me",
-    "message": "hello!",
-    "lat_long": [
-      40,
-      -4.7972804
-    ],
-    "year": "'24"
+    ]
   },
   {
     "name": "Vi Tran",
@@ -128,31 +27,21 @@
     "lat_long": [
       37.871593,
       -122.272743
-    ],
-    "year": "'23"
+    ]
   },
-  {
-    "name": "Muhtasim Miraz",
-    "iconUrl": "images/muhtasim_miraz.jpg",
-    "url": "//muhtasim.me",
-    "message": "Hey Y'all!",
-    "lat_long": [
-      40.712776,
-      -74.005974
-    ],
-    "year": "'23"
-  },
-
-  {
-    "name": "Antony Guzman",
-    "iconUrl": "images/antony.jpeg",
-    "url": "//antonypersonal.me",
-    "message": "Hello",
-    "lat_long": [
-      44.308140,
-      -71.800171
-    ],
-    "year": "'22"
-  }
+	{
+		"name": "Tyler Vergho",
+		"iconUrl": "images/tyler.jpg",
+		"url": "//tvergho.me",
+		"message": "Hey!",
+		"lat_long": [37.322998, -122.032181]
+	},
+	{
+		"name": "William",
+		"iconUrl": "images/will.jpg",
+		"url": "//williamperez.me",
+		"message": "Hi! I'm Will :))",
+		"lat_long": [28.249310, -81.650970]
+	}
 ]
 

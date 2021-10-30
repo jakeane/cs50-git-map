@@ -91,7 +91,7 @@ var loadJSONFiles = function (index, accumulator, callback) {
 
 var years = {};
 // load and process members
-loadJSONFiles(5, [], function (response) {
+loadJSONFiles(1, [], function (response) {
   var members = response;
   Object.keys(members).forEach(function (member) {
     addMarker(members[member]);
@@ -110,9 +110,9 @@ loadJSONFiles(5, [], function (response) {
     marker.on('mouseout', function (e) {
       e.target.closePopup();
     });
-    marker.on('click', function (e) {
-      eModal.iframe({ url: e.target.options.url, title: e.target.options.name, size: 'lg' });
-    });
+    // marker.on('click', function (e) {
+    //   eModal.iframe({ url: e.target.options.url, title: e.target.options.name, size: 'lg' });
+    // });
   });
 
   map.addLayer(facemarkers);
@@ -126,7 +126,7 @@ var info = L.control();
 
 info.onAdd = function (map) {
   this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-  this._div.innerHTML = '<a href="https://dartmouth-cs52-21S.github.io/git-map/"><h4>CS52 21S</h4></a><p><a href="https://github.com/dartmouth-cs52-21S/git-map">code on github</p></a><div id="error"></div>';
+  this._div.innerHTML = '<a href="https://jakeane.github.io/cs50-git-map/"><h4>CS50 21F</h4></a><p><a href="https://github.com/jakeane/cs50-git-map">code on github</p></a><div id="error"></div>';
   return this._div;
 };
 
