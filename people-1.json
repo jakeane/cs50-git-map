@@ -2,24 +2,11 @@
   {
     "name": "Tim",
     "iconUrl": "images/tim.jpg",
-    "url": "//www.zingweb.com",
     "message": "Camper Van life in Iceland",
     "lat_long": [
       63.9682201,
       -16.7972804
-    ],
-    "year": "11BC"
-  },
-  {
-    "name": "Snow",
-    "iconUrl": "images/snow.jpg",
-    "url": "//dartmouth-cs52-21s.github.io/lab1-landingpage-snow-kang/",
-    "message": "florida has snow now",
-    "lat_long": [
-      26.124161,
-      -80.143593
-    ],
-    "year": "'21"
+    ]
   },
   {
     "name": "Wylie",
@@ -29,28 +16,27 @@
     "lat_long": [
       36.152110,
       -115.218630
-    ],
-    "year": "22"
+    ]
   },
+	{
+		"name": "Jordan Sanz",
+		"iconUrl": "images/jordan.JPG",
+		"message": "I'm sleepy",
+		"lat_long": [32.02422, -102.16196]
+	},
+	{
+		"name": "San'Quan Prioleau",
+		"iconUrl": "images/s_prioleau_transparent_200px.png",
+		"message": "👋🏾 Howdy! 🇺🇸",
+		"lat_long": [32.813881, -96.949928]
+	},
   {
-    "name": "Aadhya",
-    "iconUrl": "images/aadhya.jpg",
-    "url": "//aadhyakocha.me/",
-    "message": "Let's travel!",
+    "name": "Garret",
+    "iconUrl": "images/garret.png",
+    "message": "It Compiled?",
     "lat_long": [
-      43.7022, -72.2896
-    ],
-    "year": "22"
-  },
-  {
-    "name": "Gebriel",
-    "iconUrl": "images/gebriel.jpg",
-    "url": "//gebrielmbelaineh.me/",
-    "message": "Just straight vibes!",
-    "lat_long": [
-      8.980603,
-      38.757759
-    ],
-    "year": "22"
+      42.089821,
+      -76.808258
+    ]
   }
 ]
